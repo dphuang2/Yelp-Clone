@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+  Getting the search bar to work with the Business class was a real pain since you have to access business.name and change the data type you are searching from String to Business.
 
 ## License
 
